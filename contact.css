@@ -1,0 +1,51 @@
+body {
+  padding: 0px;
+  margin: 0px;
+  border: 0px;
+}
+
+nav {
+  position: fixed;
+  width: 100%;
+  padding: 0px;
+  margin: 0px;
+  background-color: rgb(41, 41, 41);
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0px;
+  margin: 0px;
+}
+
+nav li {
+  float: left;
+  color: white;
+  list-style: none;
+  display: inline;
+}
+
+nav li.home-li {
+  background-color: rgb(41, 41, 41);
+}
+
+nav li.contact-li {
+  background-color: cadetblue;
+}
+
+nav li a {
+  display: block;
+  color: white;
+  text-decoration: none;
+  text-align: center;
+  font-size: medium;
+  padding: 14px 16px;
+}
+
+nav li.home-li:hover {
+  background-color: rgb(170, 170, 170);
+}
+
+.bio {
+  text-align: center;
+}
