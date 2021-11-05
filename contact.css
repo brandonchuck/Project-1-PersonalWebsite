@@ -46,6 +46,21 @@ nav li.home-li:hover {
   background-color: rgb(170, 170, 170);
 }
 
+div.info {
+  font-size: 20pt;
+  margin-top: 150px;
+}
+
 .bio {
   text-align: center;
+}
+
+#phone-num {
+  text-decoration: none;
+  color: cadetblue;
+}
+
+#email {
+  text-decoration: none;
+  color: cadetblue;
 }
