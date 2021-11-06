@@ -15,4 +15,4 @@
 First HTML & CSS project to learn the basics of web development. This project helped me practice creating simple nav bars with the ul > li technique. I also gained some experience with tweaking CSS classes and id's to add a personal touch to the website! In addition, functionality was created by having 2 separate pages linked together via <a> anchor tags. My greatest challenge with this project was adjusting the CSS properties to properly organize the li elements within the navbar. We all know CSS can be very frustrating, but it is rewarding to see the finished product in the end!  
 
 # Author
-Brandon Chuck | Full Stack developer | [LinkedIn](https://www.linkedin.com/in/brandonchuck/)
+Brandon Chuck | Full Stack Developer | [LinkedIn](https://www.linkedin.com/in/brandonchuck/)
