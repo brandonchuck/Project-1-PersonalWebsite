@@ -5,7 +5,7 @@
 - Website contains a home page with a profile picture as well as a contact page with contact information.
 
 # Website
-- Here's a link to the website hosted via Github Pages! https://brandonchuck.github.io/Project-1-PersonalWebsite/
+- See it [here](https://brandonchuck.github.io/Project-1-PersonalWebsite/) on Github Pages! 
 
 # Preview
 
